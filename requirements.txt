@@ -14,3 +14,4 @@ scp==0.13.3
 six==1.16.0
 tenacity==7.0.0
 textfsm==1.1.0
+xmltodict==0.12.0
